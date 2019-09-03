@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+
+    <string name="text1">Select Your choices:</string>
+
+    <string name="text_php">Php</string>
+    <string name="text_java">Java</string>
+    <string name="text_Python">Python</string>
+    <string name="text_js">Java Script</string>
+
+    <string name="btn_show">Show</string>
+
+</resources>

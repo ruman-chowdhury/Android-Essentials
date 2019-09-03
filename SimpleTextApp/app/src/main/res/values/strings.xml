@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Simple Text App</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+
+    <string name="mytext">
+
+        Motivation
+        \n\n
+        Humans are not motivated solely by wage incentives.[11] Unlike the rational theory of motivation, people are not driven toward economic interests under the natural system. For instance, the straight piecework system pays employees based on each unit of their output. Based on studies such as the Bank Wiring Observation Room, using a piece rate incentive system does not lead to higher production.[11] Employees actually set upper limits on each person’s daily output.
+        \n\n
+        These actions stand “in direct opposition to the ideas underlying their system of financial incentive, which countenanced no upper limit to performance other than physical capacity.”[11] Therefore, as opposed to the rational system that depends on economic rewards and punishments, the natural system of management assumes that humans are also motivated by non-economic factors.
+    </string>
+    <string name="rubicube">rubicube</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SqliteDatabaseTest1</string>
+
+    <string name="student_id">student id</string>
+    <string name="student_name">student name</string>
+    <string name="student_email">email</string>
+
+
+    <string name="view">View</string>
+    <string name="save">Save</string>
+
+    <string name="custom_id">custom Id</string>
+    <string name="custom_email">custom Email</string>
+    <string name="custom_name">custom name</string>
+    <string name="view_id">view Id</string>
+    <string name="view_name">view Name</string>
+    <string name="view_email">view Email</string>
+
+
+</resources>

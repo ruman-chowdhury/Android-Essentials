@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RadioRating</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="display">display</string>
+</resources>

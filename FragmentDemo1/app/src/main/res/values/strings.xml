@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentDemo1</string>
+    <string name="android_app">Android App</string>
+    <string name="application_one">Application one</string>
+    <string name="application_two">Application Two</string>
+    <string name="application_three">Application Three</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="15dp"
+    android:layout_marginLeft="15dp"
+    android:layout_marginStart="15dp"
+    tools:context="com.example.user.checkbox.MainActivity">
+
+    <TextView
+        android:id="@+id/TVchoice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text1"
+        android:textSize="22sp"
+        android:textColor="#000"
+
+         />
+
+    <CheckBox
+        android:id="@+id/CB_php"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_php"
+        android:textSize="22sp"
+        />
+
+    <CheckBox
+        android:id="@+id/CB_java"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_java"
+        android:textSize="22sp"
+        />
+
+    <CheckBox
+        android:id="@+id/CB_python"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_Python"
+        android:textSize="22sp"
+        />
+
+    <CheckBox
+        android:id="@+id/CB_js"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_js"
+        android:textSize="22sp"
+        />
+
+    <Button
+        android:id="@+id/buttonShow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_show"
+        android:textSize="25sp"
+        android:ems="8"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        />
+
+    <TextView
+        android:id="@+id/TVdisplay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="60dp"
+        />
+
+
+</LinearLayout>

@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Custom ListView</string>
+    <string name="hello_android">Hello Android</string>
+
+    <string-array name="country_names">
+        <item>America</item>
+        <item>Bangladesh</item>
+        <item>Canada</item>
+        <item>Japan</item>
+        <item>London</item>
+        <item>Pakistan</item>
+    </string-array>
+
+    <string-array name="country_flag">
+        <item>@drawable/america</item>
+        <item>@drawable/bd</item>
+        <item>@drawable/canada</item>
+        <item>@drawable/japan</item>
+        <item>@drawable/london</item>
+        <item>@drawable/pakistan</item>
+    </string-array>
+
+    <string name="america_heading">America</string>
+    <string name="bangladesh_heading">Bangladesh</string>
+    <string name="canada_heading">Canda</string>
+    <string name="japan_heading">Japan</string>
+    <string name="london_heading">London</string>
+    <string name="pakistan_heading">Pakistan</string>
+
+    <string name="america_text">
+
+                America, to the east of India on the Bay of Bengal, is a South Asian country
+                marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+                rivers create fertile plains, and travel by boat is common. On the southern coast,
+                the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+                the royal Bengal tiger. to the east of India on the Bay of Bengal, is a South Asian country
+                marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+                rivers create fertile plains, and travel by boat is common. On the southern coast,
+                the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+                the royal Bengal tiger. to the east of India on the Bay of Bengal, is a South Asian country
+                marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+                rivers create fertile plains, and travel by boat is common. On the southern coast,
+                the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+                the royal Bengal tiger.
+
+    </string>
+
+    <string name="bangladesh_text">
+        Bangladesh, to the east of India on the Bay of Bengal, is a South Asian country
+        marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+        rivers create fertile plains, and travel by boat is common. On the southern coast,
+        the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+        the royal Bengal tiger. to the east of India on the Bay of Bengal, is a South Asian country
+        marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+        rivers create fertile plains, and travel by boat is common. On the southern coast,
+        the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+        the royal Bengal tiger. to the east of India on the Bay of Bengal, is a South Asian country
+        marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+        rivers create fertile plains, and travel by boat is common. On the southern coast,
+        the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+        the royal Bengal tiger.
+    </string>
+
+    <string name="canada_text">
+        Canda, to the east of India on the Bay of Bengal, is a South Asian country
+        marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+        rivers create fertile plains, and travel by boat is common. On the southern coast,
+        the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+        the royal Bengal tiger. to the east of India on the Bay of Bengal, is a South Asian country
+        marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+        rivers create fertile plains, and travel by boat is common. On the southern coast,
+        the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+        the royal Bengal tiger. to the east of India on the Bay of Bengal, is a South Asian country
+        marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+        rivers create fertile plains, and travel by boat is common. On the southern coast,
+        the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+        the royal Bengal tiger.
+    </string>
+
+    <string name="japan_text">
+        Japan, to the east of India on the Bay of Bengal, is a South Asian country
+        marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+        rivers create fertile plains, and travel by boat is common. On the southern coast,
+        the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+        the royal Bengal tiger. to the east of India on the Bay of Bengal, is a South Asian country
+        marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+        rivers create fertile plains, and travel by boat is common. On the southern coast,
+        the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+        the royal Bengal tiger. to the east of India on the Bay of Bengal, is a South Asian country
+        marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+        rivers create fertile plains, and travel by boat is common. On the southern coast,
+        the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+        the royal Bengal tiger.
+    </string>
+
+    <string name="london_text">
+
+                London, to the east of India on the Bay of Bengal, is a South Asian country
+                marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+                rivers create fertile plains, and travel by boat is common. On the southern coast,
+                the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+                the royal Bengal tiger. to the east of India on the Bay of Bengal, is a South Asian country
+                marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+                rivers create fertile plains, and travel by boat is common. On the southern coast,
+                the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+                the royal Bengal tiger. to the east of India on the Bay of Bengal, is a South Asian country
+                marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+                rivers create fertile plains, and travel by boat is common. On the southern coast,
+                the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+                the royal Bengal tiger.
+
+    </string>
+
+    <string name="pakistan_text">
+        Pakistan, to the east of India on the Bay of Bengal, is a South Asian country
+        marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+        rivers create fertile plains, and travel by boat is common. On the southern coast,
+        the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+        the royal Bengal tiger. to the east of India on the Bay of Bengal, is a South Asian country
+        marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+        rivers create fertile plains, and travel by boat is common. On the southern coast,
+        the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+        the royal Bengal tiger. to the east of India on the Bay of Bengal, is a South Asian country
+        marked by lush greenery and many waterways.Its Padma (Ganges), Meghna and Jamuna
+        rivers create fertile plains, and travel by boat is common. On the southern coast,
+        the Sundarbans, an enormous mangrove forest shared with Eastern India, is home to
+        the royal Bengal tiger.
+    </string>
+
+</resources>
